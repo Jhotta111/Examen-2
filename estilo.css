@@ -1,4 +1,94 @@
-header {
-    background-color: black;
-    color: white;
+body {
+    text-align: right;
+    margin-left: 20%;
+    margin-right: 20%;
 }
+h4 {
+    text-align: left;
+}
+
+tr.medio {
+    text-align: center;
+    background-color: grey;
+}
+th.especial {
+    text-align: right;
+    width: 50%;
+    height: ;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td, tr {
+    padding: 8px;
+}
+
+
+
+  h2 {
+      text-align: left;
+  }
+
+  div.bordes{
+      background-color: lightblue;
+      text-align: start;
+      padding: 1px;
+  }
+
+  h3.div {
+      background-color: lightcoral;
+      padding: 6%;
+  }
+div.div {
+    background-color: limegreen;
+}
+
+div.div2 {
+    background-color: rgb(221, 202, 184);
+    padding: 2%;
+}
+input {
+    background-color: white;
+}
+
+
+tr.max {
+    text-align: center;
+    background-color: grey;
+}
+th.max {
+    text-align: right;
+    width: 50%;
+    height: ;
+}
+table.max {
+    width: 100%;
+    border-collapse: collapse;
+}
+table.max, th.max, td.max, tr.max {
+    padding: 8px;
+    background-color: orange;
+    text-align: left;
+}
+td.maxi {
+    width: 20%;
+}
+th.max {
+    width: 20%;
+}
+
+
+
+
+
+
+
+p.intro {
+    border: black 10px solid;
+    border-radius: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    background-color: white;
+  }
