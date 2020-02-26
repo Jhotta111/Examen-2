@@ -62,9 +62,10 @@ th.max {
     width: 50%;
     height: ;
 }
-table.max {
-    width: 100%;
+table {
+    width: 30%;
     border-collapse: collapse;
+
 }
 table.max, th.max, td.max, tr.max {
     padding: 8px;
@@ -78,7 +79,13 @@ th.max {
     width: 20%;
 }
 
+div.centro {
+    text-align: center;
+}
 
+input.pas {
+    background-color: blue;
+}
 
 
 
